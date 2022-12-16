@@ -1,0 +1,42 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(232, 244, 245);
+    color: rgb(0, 0, 0);
+    height: 50px;
+    margin: 10px 0px;
+    border-radius: 10px;
+    padding: 0 30px;
+}
+
+.data{
+    width: 90%;
+    display: flex;
+}
+
+.child{
+    width: 32%;
+}
+
+.name{
+    color:rgb(62, 62, 146);
+    font-weight: 900;
+}
+
+.buttons-container{
+    display: flex;
+    width: 18%;
+    justify-content: space-between;
+}
+
+.buttons{
+    padding: 5px 12px;
+    border-radius: 5px;
+    justify-content: space-between;
+    background-color:rgb(152, 152, 249);
+    border: none;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}

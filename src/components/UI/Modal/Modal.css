@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.modal{
+    color: black;
+    position: absolute;
+    transform: translate(570px, 151px);
+    background-color: antiquewhite;
+    padding: 60px;
+    width: 400px;
+    border-radius: 15px;
+    z-index: 2;
+}
+
+.modal .heading{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.modal label{
+    font-size: 16px;
+    font-weight:500 ;
+    margin-bottom: 5px ;
+}
+
+.modal input{
+    height: 34px;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.create-field{
+    margin: 10px 0;
+}
+
+.create-field label{
+    display: block;
+}
+
+.backdrop{
+    background-color: rgba(169, 169, 169, 0.5);
+    height:100vh;
+    width: 100vw;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+.close-btn{
+    background-color: rgb(241, 78, 105);
+}
+.save-btn{
+    margin-left: 20px ;
+}

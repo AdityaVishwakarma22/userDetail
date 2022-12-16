@@ -1,0 +1,26 @@
+{"posts":[{
+  "id": 1,
+  "name": "Satheesh",
+  "phone": "9090909090",
+  "email": "Sat@mail.com",
+  "address": "South street"
+}, {
+  "id": 2,
+  "name": "Shreya",
+  "phone": "7090909000",
+  "email": "skPuff@mail.com",
+  "address": "North nukkad"
+}, {
+  "id": 3,
+  "name": "Lionel Messi",
+  "phone": "9090904444",
+  "email": "messi@mail.com",
+  "address": "Argentina Mark"
+}, {
+  "id": 4,
+  "name": "Mani",
+  "phone": "9088988090",
+  "email": "mani@mail.com",
+  "address": "Phase-1"
+}]
+}
