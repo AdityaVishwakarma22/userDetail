@@ -1,1 +1,1 @@
-Checkout live website at : (https://adityavishwakarma22.github.io/userDetail/)
+Checkout live website at : https://adityavishwakarma22.github.io/userDetail/
